@@ -61,7 +61,7 @@ while MenuPrincipal != "4":
     print("1. Notas")
     print("2. Clientes")
     print("3. Servicios")
-    print("4. Estadistica
+    print("4. Estadistica")
     print("5. Salir")
 
     MenuPrincipal = input("Seleccione una opción: ")
